@@ -1,0 +1,36 @@
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\devze\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\EVERTH LLANOS\Desktop\PruebaDevzero\devze\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\Administrador\OneDrive\Escritorio\Programación\Web\Proyecto\PruebDevZero-master\devze\Entidad\obj\Debug\net5.0\Entidad.pdb

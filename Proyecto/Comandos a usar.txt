@@ -1,0 +1,47 @@
+en clientapp
+-ng g class (enfoqueproyect ej: pulsacion) pulsacion/models/persona (clase)
+-ng g service services/persona --skipTests (clase)
+-ng g c pulsacion/personaRegistro --module app     (crea un componente en la carpeta pulsacion y el modulo app)
+-ng generate module app-routing --flat --module=app (crea el routing y module en app)
+https://www.free-css.com/
+https://datatables.net/
+- ng g guard services/guard
+ng g interceptor services/Jwt
+en backend 
+
+- dotnet add package System.Collections
+- dotnet add package Swashbuckle.AspNetCore 
+- dotnet add package Microsoft.AspNetCore.SpaServices.Extensions
+
+en Datos 
+
+- dotnet add package System.Data.SqlClient
+- dotnet add package System.Collections
+nutged EntityFrameworkCore and EntityFramework.SqlServer datos
+EntityFrameworkCore.Tools presentation
+System.ComponentModel.Annotations Entity
+
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add InitialCreate -s ../stocklabweb
+dotnet ef database update -s ../stocklabweb
+
+- solucion error 500 echo Starting && ng serve (poner en star: en package.json)
+
+- generar el handle en service ng generate service @base/handleHttpError
+
+borrar export { renderModule, renderModuleFactory } from '@angular/platform-server'; de main.ts
+
+npm install chart.js --save  para graficar
+
+dotnet publish -c Release -o ./publish
+
+--dry-run(al crear componentes para saber que archivos se crearan angular)
+
+
+,
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=tcp:stocklabnorma.database.windows.net,1433;Initial Catalog=stocklab30;Persist Security Info=False;User ID=normacockiwi;Password=Normacocsubg5;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "AppSetting": {
+    "Secret": "hDdvBmDHDVg1OPjE0CJKv6h9HsxCpQOcq_LvQJyf5pA"
+  }

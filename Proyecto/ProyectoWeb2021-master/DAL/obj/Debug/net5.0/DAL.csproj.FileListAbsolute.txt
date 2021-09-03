@@ -1,0 +1,117 @@
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\Proyecto\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\EVERTH LLANOS\Desktop\Programación\pweb\WebProyecto-master\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\a\ProyectoWeeb-master\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoW-master\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\norma\Documents\GitHub\ProyectoWeb2021\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\Entity.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\bin\Debug\net5.0\Entity.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Administrador\OneDrive\Escritorio\ProyectoWeb2021-master\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache

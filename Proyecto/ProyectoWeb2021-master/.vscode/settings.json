@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fdd114e4-441b-46bc-b8dc-6172b677e415/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ProyectoPlanes",
+    "appService.deploySubpath": "WebProyect\\publish"
+}

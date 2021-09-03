@@ -1,0 +1,43 @@
+<form>
+  <div class="card">
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Codigo</th>
+          <th scope="col">Nombre</th>
+          <th scope="col">Cantidad</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr (click)="productoTabla(i)" *ngFor="let producto of productos; index as i">
+          <th scope="row">{{ i + 1 }}</th>
+          <td>{{ producto.codigo }} </td>
+          <td>{{ producto.nombre }}</td>
+          <td>{{producto.cantidad }}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+  </div>
+  <hr class="solid">
+  <div *ngIf="productoCard!=null">
+    <div class="card" style="width: 18rem; margin-left: 34%; box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4)">
+      <div class="card-body">
+        <h5 class="card-title">{{productoCard.nombre}}</h5>
+        <label for=""
+          style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Descripción:</label>
+        <p class="card-text">{{productoCard.description}}</p>
+        <label for=""
+          style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Fecha Compra:</label>
+        <p class="card-text">{{productoCard.fecha}}</p>
+        <label for=""
+          style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Precio:</label>
+        <p class="card-text">{{productoCard.precio}}</p>
+      </div>
+    </div>
+  </div>
+
+</form>

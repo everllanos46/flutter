@@ -1,0 +1,104 @@
+<div>
+    <form>
+        <div>
+            <div class="card"
+                style="width: 30rem; height: 586px; margin-left: 5%; margin-top: 5%; margin-bottom: 2%; box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4)">
+                <div class="card-body">
+                    <form>
+                        <div class="card">
+                            <div class="table-wrapper-scroll-y my-custom-scrollbar">
+                                <table class="table table-hover " style="max-width: 100%; max-height: 80%;">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Codigo</th>
+                                            <th scope="col">Nombre</th>
+                                            <th scope="col">Cantidad</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr (click)="productoTabla(i)" *ngFor="let producto of productos; index as i">
+                                            <th scope="row">{{ i + 1 }}</th>
+                                            <td>{{ producto.codigo }} </td>
+                                            <td>{{ producto.nombre }}</td>
+                                            <td>{{ producto.cantidad }}</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <hr class="solid">
+                        <div *ngIf="productoCard!=null">
+                            <div class="card" id="cardDescripcion"
+                                style="width: 15rem;  margin-left: 20%; margin-top: -2%; box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4)">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{productoCard.nombre}}</h5>
+                                    <label for=""
+                                        style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Descripción:</label>
+                                    <p class="card-text">{{productoCard.description}}</p>
+                                    <label for=""
+                                        style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Fecha
+                                        Compra:</label>
+                                    <p class="card-text">{{productoCard.fecha}}</p>
+                                    <label for=""
+                                        style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-weight: bold;">Precio:</label>
+                                    <p class="card-text">{{productoCard.precio}}</p>
+                                    <button class="btn btn-primary" type="submit"
+                                        (click)="agregarCarrito()">Agregar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+
+        </div>
+        <div *ngIf="agregado==true">
+            <div class="card"
+                style="width: 40rem; height: 400px; margin-left: 55%; margin-top: -48%; margin-bottom: 2%; box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4)">
+                <div class="card-body">
+                    <form id="scrollDiv" style="max-height: 100%;">
+                        <h5>Carrito</h5>
+                        <div class="card" id="scrollDiv" style="max-height: 100%;">
+                            <ul class="list-group list-group-flush">
+                                <li *ngFor="let carrito of productosCarrito" class="list-group-item d-flex">
+                                    <div class="row row-cols-lg-12">
+                                        <div class="col-1">
+                                            <label> {{carrito.nombre}}</label>
+                                        </div>
+                                        <div class="col-3" style="margin-left: 2%;">
+                                            <div class="form-floating">
+                                                <input type="number"  name="cantidad" style="width: 100px;" id="cantidad" [(ngModel)]="carrito.cantidadProducto">
+                                                <label>Cantidad</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-3" style="margin-left: 1%;">
+                                            <div class="form-floating">
+                                                <input type="number"  name="descuento" style="width: 100px;" id="descuento" [(ngModel)]="carrito.descuento">
+                                                <label>Descuento</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-3" style="margin-left: 1%;">
+                                            <div class="form-floating">
+                                                <input type="number" name="precio" (change)="calcularSubtotal($event)" style="width: 100px;" id="precio" [(ngModel)]="carrito.valorProducto">
+                                                <label>Precio</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <hr>
+                                <label>SubTotal:{{subtotal}} </label>
+                                <label>Total descontado: </label>
+                                <label>Total IVA: </label>
+                                <label>Total: </label>
+                                <button pButton type="button" style="border-radius: 10px;" label="Finalizar Compra"
+                                    (click)="finalizarCompra()" class="p-button-outlined"></button>
+                            </ul>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

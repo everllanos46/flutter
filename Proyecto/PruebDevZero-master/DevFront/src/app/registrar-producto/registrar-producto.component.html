@@ -1,0 +1,36 @@
+<div>
+    <form action="">
+        <div>
+            <div class="card"
+                style="width: 30rem; height: 868px; margin-left: 25%; margin-top: 1%; margin-bottom: 2%; box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4)">
+                <div class="card-body">
+                    <label for="">Nombre</label>
+                    <input type="text" name="nombre" [(ngModel)]="producto.nombre" >
+                    <label>Descuento</label>
+                    <input type="number" name="descuento" [(ngModel)]="producto.descuento" >
+                    <label>IVA</label>
+                    <input type="number" name="IVA" [(ngModel)]="producto.iva">
+                    <label>Descripción</label>
+                    <input type="text" name="descripcion" [(ngModel)]="producto.description">
+                    <label>Precio</label>
+                    <input type="number" name="precio" [(ngModel)]="producto.precio" >
+                    <label>Cantidad</label>
+                    <input type="number" name="cantidad" [(ngModel)]="producto.cantidad">
+                    <label>Proveedores</label>
+                    <select (change)='CambiarProveedor($event)' [(ngModel)]="selected" name="selected" style="margin-left: 10px;" class="form-select" aria-label="Default select example">
+                        <option  *ngFor="let proveedor of proveedores;" [value]="proveedor.idProveedor">{{proveedor.nombre}}</option>
+                    </select>
+                    <div>
+                        <label for="">Código Proveedor</label>
+                        <input type="text" name="codigoProveedor" [(ngModel)]="proveedor.idProveedor">
+                        <label>Nombre Proveedor</label>
+                        <input type="text" name="nombreProveedor" [(ngModel)]="proveedor.nombre">
+                    </div>
+                    <div style="margin-left: 40%;">
+                        <button type="button" class="btn btn-dark" (click)="add()" >Registrar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

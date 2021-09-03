@@ -1,0 +1,27 @@
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+.table-wrapper-scroll-y {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+
+.scrollDiv {
+  height: 300px;
+  width: 200px;
+  border: 1px solid #ddd;
+  background: #f1f1f1;
+  overflow-y: scroll;
+}
+
+.scroll {
+  max-height: 100px;
+  overflow-y: auto;
+}

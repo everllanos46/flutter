@@ -1,0 +1,26 @@
+
+<table class="table table-dark table-hover" *ngIf='estudiantes && estudiantes.length'>
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Identificacion</th>
+            <th scope="col">Nombres</th>
+            <th scope="col">Sisben</th>
+            <th scope="col">Matricula</th>
+            <th scope="col">Subsidio</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let estudiante of estudiantes; index as i ">
+            <th scope="row">{{ i + 1 }}</th>
+            <td>{{ estudiante.identificacion }} </td>
+            <td>{{ estudiante.nombres }}</td>
+            <td>{{estudiante.sisben }}</td>
+            <td>{{ estudiante.matricula }}</td>
+            <td>{{ estudiante.subsidio }}</td>
+        </tr>
+    </tbody>
+</table>
+
+<label for="">Total Subsidiado</label>
+<input type="text" class="form-control" name="sisben" [value]=traerTotalSubsidio() disabled>

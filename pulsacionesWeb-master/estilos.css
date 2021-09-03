@@ -1,0 +1,100 @@
+header{
+    text-align: center;
+    background-color: orangered;
+    border-style: groove;
+    color: black;
+}
+
+nav{
+  float: left;
+  width: 15%;
+  height: 500px; 
+  background-color: blanchedalmond;
+  border-style: dotted;
+  display: block;
+}
+
+article{
+    float: left;
+    margin-left: 5%;
+}
+
+#imagen{
+    margin-top: 3%;
+    margin-left: 30%;
+}
+
+#divi{
+    border-style: double;
+}
+
+form{
+    margin-left: 43%;
+    margin-right: 43%;
+    margin-top: 1%;
+    border-style: ridge;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+label{
+    margin-left: 65px;
+    margin-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#idLabel{
+    margin-left: 30px;
+    margin-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    border-style: ridge;
+    border-radius: 2;
+}
+
+article{
+    float: left;
+    margin-left: 5%;
+}
+
+#divConsulta{
+    float: left;
+    margin-left: 5%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #1f201e;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .menuv a{
+    text-decoration: none;
+    padding-top: 10% ;
+    padding-bottom: 10% ;
+    display: block;
+    color: black;
+    text-align: center;
+    
+  }
+
+  .menuv a:hover{
+    background-color: rgb(7, 89, 212);
+    color: rgb(184, 7, 7)
+  }
+  
+
+
+

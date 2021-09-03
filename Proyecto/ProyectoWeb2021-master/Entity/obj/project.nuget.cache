@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6cbxCzLYJV/Q3JpTxOPga5Ru7WIW0lccQGGKR4hG9vfROJ2ivGhYGoqDDS04jWFh+K5p5XykVVg7qCQAaVHpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\ProyectoWeb2021-master\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

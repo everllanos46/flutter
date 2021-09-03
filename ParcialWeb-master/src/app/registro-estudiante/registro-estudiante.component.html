@@ -1,0 +1,25 @@
+<div class="card">
+    <div class="col-md-8">
+        <form>
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Identificacion</label>
+              <input type="text" class="form-control" name="identificacion" [(ngModel)]="estudiante.identificacion" >
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Nombres</label>
+                <input type="text" class="form-control" name="nombres" [(ngModel)]="estudiante.nombres" >
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Grupo Sisben</label>
+                <input type="text" class="form-control" name="sisben" [(ngModel)]="estudiante.sisben">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Valor Matrícula</label>
+                <input type="number" class="form-control" name="matricula" [(ngModel)]="estudiante.matricula">
+            </div>
+            <button type="submit" class="btn btn-primary" (click)="add()" >Submit</button>
+          </form>
+    </div>
+    
+</div>
+
